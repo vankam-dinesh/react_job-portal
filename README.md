@@ -10,7 +10,7 @@ A comprehensive job portal application built using the MERN (MongoDB, Express.js
 - **Responsive Design:** Ensures a seamless experience across all devices.
 
 ## Technologies Used
-
+                                                                    
 - **Frontend:** React.js, React Router, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JWT (JSON Web Tokens), Bcrypt (for password hash)
