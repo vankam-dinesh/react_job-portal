@@ -57,7 +57,7 @@ To get a local copy up and running follow these simple steps.
    CLOUDINARY_CLOUD_NAME=
    FRONTEND_URL=
    DB_URL=
-   JWT_SECRET_KEY=
+   JWT_SECRET_KEY=   
    JWT_EXPIRE=
    COOKIE_EXPIRE=
    ```
