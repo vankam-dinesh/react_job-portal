@@ -8,7 +8,7 @@ A comprehensive job portal application built using the MERN (MongoDB, Express.js
 - **Job Listings:** Browse through a wide range of job listings fetched from MongoDB.
 - **Application Management:** Job seekers can manage their job applications, and employers can view and manage received applications.
 - **Responsive Design:** Ensures a seamless experience across all devices.
-
+                                                              
 ## Technologies Used
                                                                                                                                                               
 - **Frontend:** React.js, React Router, Bootstrap
